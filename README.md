@@ -1,2 +1,2 @@
 # OpenSportSim.com
-Official OpenSportSim website.
+Official website for OpenSportSim.
