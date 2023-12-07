@@ -1,2 +1,2 @@
-# OpenSportSim.com
-Official website for OpenSportSim.
+# OpenSportSim Client
+A generic client for OpenSportSim platform
